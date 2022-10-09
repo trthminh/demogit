@@ -1,0 +1,6 @@
+git init: tạo 1 repo
+git pull: đồng bộ trên mạng về máy
+
+git add: để thêm file vào repo trong máy
+git commit:
+git push: đồng bộ từ repo trong máy với trên mạng
